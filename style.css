@@ -29,6 +29,7 @@ body {
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
       background-color:#E7E7E7 !important; 
   }
+
   a {
       color: #6D8092;
       font-size: 15px; 
@@ -92,6 +93,11 @@ body {
   .table {
       font-size: 15px; 
       border-top-color: white !important; 
+  }
+
+  th {
+      text-align: left;
+      font-size: small;
   }
 
   /* Footer */
