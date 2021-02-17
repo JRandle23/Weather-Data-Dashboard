@@ -53,8 +53,8 @@ body {
   }
 
   .vizualization {
-      width:50% !important;
-      height:50% !important;
+      width:50%;
+      height:50%;
   }
   
   /* Title Class  */
@@ -115,7 +115,7 @@ body {
   /* Media Queries */
   @media(max-width: 992px) {
       .navbar-expand-lg {
-          background-color: #0BADA6 !important;
+          background-color: #0BADA6;
         }
       .navbar {
           max-height: none; 
