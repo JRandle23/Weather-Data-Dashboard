@@ -42,6 +42,7 @@ body {
       color: rgb(175, 175, 175);
   }
   
+
   /* Images */
   img {
     width:100%;
@@ -58,7 +59,7 @@ body {
       height:50%;
   }
   
-  /* Title Class  */
+  /* Title Class */
   .title {
       color: #0BADA6;  
       font-family: Georgia, 'Times New Roman', Times, serif;
@@ -72,14 +73,14 @@ body {
       font-weight: bolder;
   }
 
-  /* Paragraph Element */
+  /* Paragraphs */
   p {
       color: #6D8092;
       font-family: Arial, Helvetica, sans-serif;
       font-size: 17px; 
   }
 
-  /* Box Class */
+  
   .box {
       margin-top: 60px; 
       margin-bottom: 62px; 
@@ -89,7 +90,7 @@ body {
   
   }
 
-  /* Table */
+  /* Tables */
   .table {
       font-size: 15px; 
       border-top-color: white; 
@@ -100,23 +101,7 @@ body {
       font-size: small;
   }
 
-  /* Footer */
-  footer {
-      background-color: #666666; 
-      border-top-style: solid; 
-      border-top-width: 5px; 
-      border-top-color: #0BADA6;
-      color: white; 
-      min-height: 55px; 
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 15px; 
-      text-align: center; 
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      width: 100%;
-      padding-top: 15px; 
-  }
+
 
   /* Media Queries */
   @media(max-width: 992px) {
