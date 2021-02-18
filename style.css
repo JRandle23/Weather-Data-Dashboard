@@ -11,7 +11,7 @@ body {
   .navigation .navbar-brand {
       color: white; 
       margin-left: 30px; 
-      padding: inherit; 
+      padding: 12px;
       font-weight: bold; 
       background-color: #0BADA6;
       font-family: Georgia, 'Times New Roman', Times, serif;
