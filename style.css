@@ -21,13 +21,13 @@ body {
       font-size: 15px; 
   }
   .active, .dropdown-menu .dropdown-item:active a:hover {
-      background-color:#E7E7E7!important; 
+      background-color:#E7E7E7; 
   }
   .dropdown-item {
-      color: #6D8092 !important; 
+      color: #6D8092; 
   }
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-      background-color:#E7E7E7 !important; 
+      background-color:#E7E7E7; 
   }
 
   a {
@@ -35,11 +35,11 @@ body {
       font-size: 15px; 
   }
   .nav-link:hover {
-      background-color:#E7E7E7 !important;
+      background-color:#E7E7E7;
   }
   
   .navbar-brand:hover {
-      color: rgb(175, 175, 175) !important;
+      color: rgb(175, 175, 175);
   }
   
   /* Images */
@@ -92,7 +92,7 @@ body {
   /* Table */
   .table {
       font-size: 15px; 
-      border-top-color: white !important; 
+      border-top-color: white; 
   }
 
   th {
@@ -134,7 +134,7 @@ body {
         }
 
       .navbar-brand {
-          padding: 10px !important; 
+          padding: 10px; 
         }
   
       button {
