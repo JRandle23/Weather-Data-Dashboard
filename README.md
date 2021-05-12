@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design - Web Visualization Dashboard (Latitude)
 
 Website URL: https://jrandle23.github.io/Wed-Design-Challenge/
 
